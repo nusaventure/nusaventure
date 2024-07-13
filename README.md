@@ -47,3 +47,7 @@ Repositories:
 ## 🔀 Entity Relationship Diagram (ERD)
 
 Look at [dbdocs](https://dbdocs.io/nusaventure.com/nusaventure?view=relationships)
+
+## ⚡ API Specification
+
+Look at [SwaggerUI](https://nusaventure-backend.onrender.com/api)
