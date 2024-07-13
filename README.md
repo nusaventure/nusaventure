@@ -45,3 +45,5 @@ Repositories:
 - Figma: [Nusaventure](https://www.figma.com/design/hcYwfXGBenPH999pNQJ7wl/Nusaventure)
 
 ## 🔀 Entity Relationship Diagram (ERD)
+
+Look at [dbdocs](https://dbdocs.io/nusaventure.com/nusaventure?view=relationships)
