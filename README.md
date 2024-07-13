@@ -42,7 +42,7 @@ Repositories:
 
 ## 🎨 UI Designs
 
-- Figma: [Nusaventure](https://www.figma.com/design/hcYwfXGBenPH999pNQJ7wl/Nusaventure)
+Look at [Figma](https://www.figma.com/design/hcYwfXGBenPH999pNQJ7wl/Nusaventure)
 
 ## 🔀 Entity Relationship Diagram (ERD)
 
