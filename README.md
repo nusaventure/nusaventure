@@ -50,4 +50,4 @@ Look at [dbdocs](https://dbdocs.io/nusaventure.com/nusaventure?view=relationship
 
 ## ⚡ API Specification
 
-Look at [SwaggerUI](https://nusaventure-backend.onrender.com/api)
+Look at [SwaggerUI](https://nusaventure-backend.onrender.com/ui)
