@@ -25,7 +25,7 @@ Nusaventure, short for **Nusantara Adventure**, is a platform that inspires expl
 
 ## 🔗 Links
 
-Nusaventure is live at <https://nusaventure.com>  
+Nusaventure web app is live at <https://nusaventure.com>  
 Backend API is at <https://api.nusaventure.com>
 
 Repositories:
@@ -40,6 +40,14 @@ Repositories:
 - [Wanderlog](https://wanderlog.com)
 - [Foursquare](https://foursquare.com)
 
+## Frontend Web App Demo
+
+Check out <https://nusaventure.com>
+
+## Backend API Demo
+
+Check out <https://api.nusaventure.com>
+
 ## 🎨 UI Designs
 
 Look at [Figma](https://www.figma.com/design/hcYwfXGBenPH999pNQJ7wl/Nusaventure)
@@ -47,6 +55,11 @@ Look at [Figma](https://www.figma.com/design/hcYwfXGBenPH999pNQJ7wl/Nusaventure)
 ## 🔀 Entity Relationship Diagram (ERD)
 
 Look at [dbdocs](https://dbdocs.io/nusaventure.com/nusaventure?view=relationships)
+
+## Database
+
+- 100+ Places
+- ...
 
 ## ⚡ API Specification
 
