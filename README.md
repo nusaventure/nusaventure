@@ -4,16 +4,13 @@
 
 Nusaventure, short for **Nusantara Adventure**, is a platform that inspires exploration of various legendary tourist spots, delicious culinary varieties, interesting activities and events, understanding the ecosystem and communities, and more.
 
+[Slide Deck](https://figma.com/deck/FwwHhByoH0b5lf4alMKm2K/Nusaventure-Presentation-Slide)
+
 ## 🌟 Features
 
-- Explore places  
-  Discover hidden gems and top attractions with detailed reviews, ratings, and insider tips. Your next adventure awaits!
-
-- Track travel history  
-  Effortlessly document your journeys, log visited places, and create a digital scrapbook of your travels. Cherish every moment!
-
-- Social sharing  
-  Share your adventures, connect with fellow travelers, and inspire the world with your stories and photos. Travel together!
+- Explore places: Discover hidden gems and top attractions with detailed reviews, ratings, and insider tips. Your next adventure awaits!
+- Track travel history: Effortlessly document your journeys, log visited places, and create a digital scrapbook of your travels. Cherish every moment!
+- Social sharing: Share your adventures, connect with fellow travelers, and inspire the world with your stories and photos. Travel together!
 
 ## 🤝 Team
 
@@ -25,7 +22,7 @@ Nusaventure, short for **Nusantara Adventure**, is a platform that inspires expl
 
 ## 🔗 Links
 
-Nusaventure web app is live at <https://nusaventure.com>  
+Nusaventure web app is live at <https://nusaventure.com>
 Backend API is at <https://api.nusaventure.com>
 
 Repositories:
