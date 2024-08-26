@@ -4,7 +4,7 @@
 
 Nusaventure, short for **Nusantara Adventure**, is a platform that inspires exploration of various legendary tourist spots, delicious culinary varieties, interesting activities and events, understanding the ecosystem and communities, and more.
 
-[Slide Deck](https://figma.com/deck/FwwHhByoH0b5lf4alMKm2K/Nusaventure-Presentation-Slide)
+[Slide Deck on Figma Slides](https://figma.com/deck/FwwHhByoH0b5lf4alMKm2K/Nusaventure-Presentation-Slide)
 
 ## 🌟 Features
 
